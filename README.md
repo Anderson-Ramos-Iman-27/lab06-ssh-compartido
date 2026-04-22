@@ -9,3 +9,7 @@ Se configuraron dos cuentas de GitHub en un mismo equipo usando claves SSH.
 
 ## Resultado
 Se logró trabajar colaborativamente simulando dos usuarios distintos mediante SSH.
+
+
+## Commit adicional
+Este cambio fue realizado desde la cuenta personal.
